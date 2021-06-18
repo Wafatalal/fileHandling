@@ -1,0 +1,11 @@
+C:\Users\samer\source\repos\Rainbow School\Rainbow School\bin\Debug\netcoreapp2.1\Rainbow_School.deps.json
+C:\Users\samer\source\repos\Rainbow School\Rainbow School\bin\Debug\netcoreapp2.1\Rainbow_School.runtimeconfig.json
+C:\Users\samer\source\repos\Rainbow School\Rainbow School\bin\Debug\netcoreapp2.1\Rainbow_School.runtimeconfig.dev.json
+C:\Users\samer\source\repos\Rainbow School\Rainbow School\bin\Debug\netcoreapp2.1\Rainbow_School.dll
+C:\Users\samer\source\repos\Rainbow School\Rainbow School\bin\Debug\netcoreapp2.1\Rainbow_School.pdb
+C:\Users\samer\source\repos\Rainbow School\Rainbow School\obj\Debug\netcoreapp2.1\Rainbow_School.csproj.CoreCompileInputs.cache
+C:\Users\samer\source\repos\Rainbow School\Rainbow School\obj\Debug\netcoreapp2.1\Rainbow_School.AssemblyInfoInputs.cache
+C:\Users\samer\source\repos\Rainbow School\Rainbow School\obj\Debug\netcoreapp2.1\Rainbow_School.AssemblyInfo.cs
+C:\Users\samer\source\repos\Rainbow School\Rainbow School\obj\Debug\netcoreapp2.1\Rainbow_School.dll
+C:\Users\samer\source\repos\Rainbow School\Rainbow School\obj\Debug\netcoreapp2.1\Rainbow_School.pdb
+C:\Users\samer\source\repos\Rainbow School\Rainbow School\obj\Debug\netcoreapp2.1\Rainbow_School.csprojAssemblyReference.cache
